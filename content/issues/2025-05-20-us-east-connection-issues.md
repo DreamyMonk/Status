@@ -5,9 +5,7 @@ date: 2025-05-20T12:52:11.109Z
 resolved: true
 resolvedWhen: 2025-05-20T12:52:11.118Z
 affected:
-  - API
-  - Media Proxy
-  - Gateway
+  - App
 severity: down
 ---
 
