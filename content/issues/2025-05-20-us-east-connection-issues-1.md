@@ -7,7 +7,7 @@ pin: true
 resolvedWhen: 2025-05-20T12:54:35.090Z
 affected:
   - App
-severity: down
+severity: disrupted
 ---
 
 *Resolved* -
